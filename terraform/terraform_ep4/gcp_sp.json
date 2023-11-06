@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "skilled-mile-282402",
+  "private_key_id": "bd1e5a3de8fef6e59bae62fa8133e07562edeab7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaur5uO2kRVXIv\n0JSdEeTgN5HVQrp/BdXlw5YJi7f18CSwudbtwXTTEN8wT23chx9w1cwMSZxr4LCo\nSIUGTFW0jD5/VkUXrNcsDppaOCKyVH/w3FYZ0v+r4Lg6oemh+2yXx2BDrrdj3w8O\nT+UcmtsAch2UGMVeNHxa9qpMX9gJwDdwVwqXa8/TFWOonJS66YyEkCJjLyZXgOaT\nKBECS0+YcTVBwXvQ8CDr/RLcRsjAy8PqdnC1VPkQTfiOKt47jNu2ppjLVg5uz2Zn\n+z3YQhrshSfgZqPgre4CmtyNAzR5gnEqYpa3ZkMlcuhQeAfYUTFqyXsSAZXm+fRN\nk/jJMST3AgMBAAECggEAOGA7O0G1RgYKfUZzp4kaCeHlZj0SY262YSlytNat99OA\nIs4LdARNMwwOLfV602N+Pqf/WSjG7/1lkGMf6MwOXCLPMKk3smkc2yYU8jNK3Qvx\ns8osKuuYkUDnDyHoVMcdaW3Q8sgpdJ+UxkOw+Eup6M8rXMbrvqfD+YavRPWU6vQH\nZD/18plhh4d0l87fWc8LvOG5a+afQ/VkNr/fU+l+yQAdOwMwg8nFY6Xbc9bIUFdO\nwjbxggfR69hRO2gN6ibQHB05/kguQyM03VbDPO3Nsw1isnpGuxaZzLSksKvJAVmO\n61cb5X0NcDVNACKiixDgmjDSWWdI7DRzmnVp6gzOHQKBgQDRsWLeKv8VvOgUk1x/\nzdiZ2x/NlwibR401XhCKR4wYFfBhE124N9rmS7jCTYt1W4TXrmBO1tuZrw1UasqX\n9oaJ80vUnrjlDDFkF4Rk20dKkcKY8g+IY6NhQ8PjG4yDVMT1ie9+2XtkwyUKmglf\nxTdBi1E/P+deMFghAw0gQaza7QKBgQC85hj4lk7TJzUV7UW1YmnS8dqSkJhjGWEa\nWfyyQOJHDiDlNyZKNdoo+vEimwE0Blo/CEUdS/2JFoOmzihYYsR6sknf0tA9uYxe\nIiHgwkK9Qxe07BFVUDPitULdnncN+YX7qwUnHcm7JZbCyEU7+SQzVA+LEqbZ+DgF\nvq1fdUnu8wKBgQDRSi32to1goeo1Vxs0iDyO23DznrI9YX3j7R2vFlgSVhtUmKKq\n0jzOLHecnw75ND3zkxyWs8X8rwYr4maQo8KGf2mJLl42ZiQJ1ZsTmvSdzbufMcIl\nC+Wul5c03nMxRXNL6r86KVEKMeePnEyM5OcQqT+PVHXVwYTEdiosrsAaxQKBgFPA\nbTfiZKaIDqhfH/YQ4TyO0MsE4xulCAGH/lsGG41HfVxDfG2QvN5IjJs8QGdRnbeu\nsf4QUCP04IAXjZnKiLSh0dE0BfIoD005Mu4VE0QYuC0WMYUy3x5YIYJjHQQMKtRv\negRi16trOhG4e8Hgb6V2UsHljia8QBKD/RiCxznzAoGAbH+fsmcwxRV9M0K+BkwZ\neDlAO7pJDQCdQEA41zY83W1HSsua/uvElCdAeuJu1mKAGZRnzgMImMhi9SM5KeGv\n8Uvz2XEyJ9bjWOs4i9TtNHdfBojeZ6+PUIiRxVUpIeUaZXMUOtAVgi0epSENYhgo\nkulcKaMgF94fzFjjdyfqjCc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kajen-gc-svc@skilled-mile-282402.iam.gserviceaccount.com",
+  "client_id": "113912835336866357439",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kajen-gc-svc%40skilled-mile-282402.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -2,7 +2,7 @@
 # Author: Somnath Das
 
 provider "google" {
-  project      = "<you_project_id>"
+  project      = "skilled-mile-282402"
   region       = "us-central1"
   zone         = "us-central1-b"
 }
@@ -13,7 +13,7 @@ resource "google_compute_instance" "vm" {
 
   boot_disk {
     initialize_params {
-      image = "debian-cloud/debian-9"
+      image = "debian-cloud/debian-11"
     }
   }
 
@@ -26,6 +26,6 @@ resource "google_compute_instance" "vm" {
 }
 
 resource "google_storage_bucket" "bucket" {
-  name = "daslearning-bucket-22"
+  name = "daslearning-bucket-33"
   location = "ASIA-SOUTH1"
 }
